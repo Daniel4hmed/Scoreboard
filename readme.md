@@ -5,3 +5,6 @@ This JavaScript project is a simple point tracker for two players. It allows use
 
 ## Screenshot
 ![Scoreboard](./scoreboard.jpg)
+
+## License
+MIT License
